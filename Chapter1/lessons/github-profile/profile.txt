@@ -1,6 +1,6 @@
-Name:
-Grade:
-Favorite Programming Language:
-Favorite Thing About Computer Science:
-Something I Am Good At:
-Something I Want To Learn:
+Name: Zuwei Liang
+Grade:12th
+Favorite Programming Language: Python
+Favorite Thing About Computer Science: So that I can make my own Robot
+Something I Am Good At: Electrical 
+Something I Want To Learn: Java, C++, Raspberrypi
