@@ -4,3 +4,6 @@ Favorite Programming Language: Python
 Favorite Thing About Computer Science: So that I can make my own Robot
 Something I Am Good At: Electrical 
 Something I Want To Learn: Java, C++, Raspberrypi
+
+
+
