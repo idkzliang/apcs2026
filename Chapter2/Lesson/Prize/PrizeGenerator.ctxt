@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrizeGenerator
+comment0.text=\r\n\ Generate\ a\ random\ cash\ prize\r\n\r\n\ Zuwei\ Liang\r\n\ Date\ Modified\:\ 8/26/2026\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
